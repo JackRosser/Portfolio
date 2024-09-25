@@ -1,0 +1,6 @@
+#banner {
+  background-image: url(./img/banner.jpg);
+  /* object-fit: cover; */
+  /* object-position: center center; */
+  background-size: cover;
+}
